@@ -8,3 +8,7 @@ some image paper with available code
 ## MVS
 
 1. Visibility-aware Multi-view Stereo Network[<sup>[source]</sup>](https://github.com/jzhangbs/Vis-MVSNet)
+
+## Others
+
+1. Delving Deeper into Anti-aliasing in ConvNets[<sup>[source]</sup>](https://github.com/MaureenZOU/Adaptive-anti-Aliasing)
